@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krystian</h1>
-<h3 align="center">A passionate junior-frontend developer from Poland</h3>
+<h3 align="center">A junior-frontend developer from Poland</h3>
 
 
 - 🌱 I’m currently learning **tailwindcss**
