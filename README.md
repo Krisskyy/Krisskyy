@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Krisskyy
+- 👀 I’m interested in chess
+- 🌱 I’m currently learning tailwindcss
